@@ -1,0 +1,43 @@
+What is an XML file?
+An XML file is an extensible markup language file, and it is used to structure data for storage and transport. In an XML file, there are both tags and text. The tags provide the structure to the data. The text in the file that you wish to store is surrounded by these tags, which adhere to specific syntax guidelines. At its core, an XML file is a standard text file that utilizes customized tags, to describe the structure of the document and how it should be stored and transported.
+
+For example, Microsoft Office versions 2007 and later use XML for its document structure. So, when you save a document in Word, Excel or PowerPoint, you will get the document title with an "X" at the end. The "X" stands for XML. For a Word document, the title would be presented with ".DOCX" at the end.
+
+XML is a markup language, which means it is a computer language that uses tags to describe components in a file. This XML markup language contains actual words instead of programming syntax. The most popular markup languages are HTML and XML. You may already be familiar with HTML, but XML has a few key differences such as:
+
+Purpose: With HTML, or hypertext markup language, information is displayed, but with XML that information is transferred. Typically, HTML is used for encoding web pages. On the other hand, XML is a language for data-description and is used to store data.
+
+Ability to customize: HTML uses a pre-selected range of markup symbols or shortcodes, which describe the presentation of a web page's content. Conversely, XML is extensible and allows users to customize and create their own markup symbols. In this way, with XML, users have complete control and can create an unlimited symbol set to describe their content.
+Advantages of XML
+Using XML files is advantageous for many reasons including:
+
+Readability: For a data analyst, the data must be easily accessible and readable. XML files are easy to comprehend because they use human language with actual words instead of a computer language. For example, XML tag names clearly define and explain the data. Each tag is arranged to come before its data, so the information is neat and organized. Additionally, because the data is exchanged in a straightforward manner with the XML markup language, computers easily process XML files.
+
+Compatibility: XML files are compatible with Java and are completely portable, meaning you can access and transport data at any time and from any location. All you need is applications that can process XML, and then you can store and transmit your data.
+
+Customization: As an extensible markup language, XML allows users to create their own tags or use tags created by other users. If you are using tags from other users, you will need to make sure that the tags are using the natural language of your domain and that they have the features you require. Users can create an unlimited amount of tags in XML.
+Common uses of XML
+XML has multiple uses across a wide range of web pages and applications. Some common uses of XML include:
+
+Web publishing: With XML, users can create and customize interactive web pages. Once the data is stored by XML, you can manipulate the content for different users or multiple devices. You will need to make sure that you are checking the style sheet processing along the way. It may be helpful to use an extensible style sheet language transformation processor, which will allow you to transform the XML file into other layouts, such as HTML for web pages. In a business, using XML in this way would be the job of the web developer.
+
+Web tasks: XML may be used for web searching and automating tasks. In this way, XML examines the information in a file, which makes it easier to get top results when you are performing a web search. For instance, if a user conducts a web search for an author named Jim Green using HTML, the search results page may show other occurrences of the term "green" aside from the author. But if you use XML, web searches are limited to the information you want, which is the information found in the tag.
+
+General applications: All kinds of applications can benefit from XML as it offers a streamlined method of accessing information. This straightforward process allows both applications and devices to utilize, store, transfer and display data. For example, in the workplace data architects and programmers use XML daily.
+How to open an XML file
+Working with XML files is relatively simple, even for a beginner. A couple of different methods for opening an XML file are to open the file and edit with a text editor or to open and view the file with a web browser.
+
+The steps for opening an XML file with a text editor include:
+
+Right-click the XML file you want to open.
+Point to “Open With” on the context menu.
+Click the “Notepad” option.
+Both of the Notepad and Notepad++ text editors are good options to open XML files. However, in Notepad, you can open the XML file, but the formatting may become chaotic and confusing. In this case, it may be better to use Notepad++ because it stays true to the original formatting of the file.
+
+The steps for opening an XML file to view in a web browser include:
+
+Open your default web browser.
+Double-click on the XML file and it should open in your browser.
+If it does not open, right-click on the file to find a list of options for opening it with other programs.
+Now you will be able to select your web browser from the list of programs.
+In today's technologically-advanced society, it is important to understand how to use XML files in the workplace. There are many benefits of using XML, and thankfully, working with XML files is a straightforward process. Users have a couple of different options for opening and viewing XML files, depending on your technology preferences.
